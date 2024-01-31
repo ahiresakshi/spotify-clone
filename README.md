@@ -1,12 +1,12 @@
 
-Spotify-Clone
+## Spotify-Clone
 
-
+![spotify 1](https://github.com/ahiresakshi/spotify-clone/assets/88669971/61a82a5b-d65f-44ce-a54d-2220f9fffadc)
 ![spotify2](https://github.com/ahiresakshi/spotify-clone/assets/88669971/7926e631-6ac0-4ee2-bd23-b032d1663bdc)
 
 ![spotify3](https://github.com/ahiresakshi/spotify-clone/assets/88669971/7c6b85ad-6872-4698-ab94-f37e078c3bc6)
 
-# Getting Started with Create React App![spotify 1](https://github.com/ahiresakshi/spotify-clone/assets/88669971/61a82a5b-d65f-44ce-a54d-2220f9fffadc)
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
